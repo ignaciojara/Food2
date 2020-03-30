@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/logo">
+
+    <ImageView
+        android:id="@+id/imagen_sandwich"
+        android:layout_width="match_parent"
+        android:layout_height="290dp">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/descripcion_sandwich"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="-380dp"
+        android:layout_marginTop="290dp"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/precio_sandwich"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="-200dp"
+        android:layout_marginTop="490dp"
+        android:textSize="30sp" />
+
+</LinearLayout>

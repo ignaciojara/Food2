@@ -1,0 +1,13 @@
+<resources>
+    <string name="botonsandwich5">Chemilico</string>
+    <string name="botonsandwich4">Churrasco</string>
+    <string name="botonsandwich3">Barros Lucos</string>
+    <string name="botonsandwich2">Chacarero</string>
+    <string name="botonsandwich1">Italiano</string>
+    <string name="home">Special Sandwich</string>
+    <string name="sandwiches">Sandwiches</string>
+    <string name="app_name">Fast Food</string>
+    <string name="boton_1">SANDWICHES</string>
+    <string name="boton_2">SOBRE NOSOTROS</string>
+    <string name="slogan">Somos una empresa de la región del Bío-Bío con más de 10 años de expereciencia realizando sandwiches! los mejores de la zona, si no chorrea no es ESPECIAL SANDWICH!!!</string>
+</resources>
